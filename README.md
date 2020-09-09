@@ -46,10 +46,10 @@
 
 
 
-[Aman Jha](https://amnjha.github.io)
-[@heremaps](https://github.com/heremaps)
-[website](https://amnjha.github.io)
-[stackoverflow](https://stackoverflow.com/users/3879941/aman-j)
-[linkedin](https://www.linkedin.com/in/amanjha22/)
-[twitter](https://twitter.com/amn_jha)
-[instagram](https://www.instagram.com/amnjha/)
+[Aman Jha]: https://amnjha.github.io
+[@heremaps]: https://github.com/heremaps
+[website]: https://amnjha.github.io
+[stackoverflow]: https://stackoverflow.com/users/3879941/aman-j
+[linkedin]: https://www.linkedin.com/in/amanjha22/
+[twitter]: https://twitter.com/amn_jha
+[instagram]: https://www.instagram.com/amnjha/
