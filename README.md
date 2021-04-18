@@ -1,13 +1,10 @@
 ### Hi there 👋 I am [Aman Jha]
 
-<img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="250px">
-
 - 🔭 I’m currently working at [Lowe's India]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on App Development
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - 🍕 Pizza is my favourite food
-
 
 
 ### Connect with me:
@@ -18,6 +15,8 @@
 [<img align="left" alt="amnjha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="amnjha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+
+<img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="175px">
 <br />
 
 
