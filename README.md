@@ -15,7 +15,7 @@
 [<img align="left" alt="amnjha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="amnjha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
+<br />
 <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="175px">
 <br />
 
