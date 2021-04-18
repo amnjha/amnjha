@@ -1,5 +1,7 @@
 ### Hi there 👋 I am [Aman Jha]
 
+<img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="250px">
+
 - 🔭 I’m currently working at [Lowe's India]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on App Development
@@ -19,7 +21,7 @@
 <br />
 
 
-### Languages and Tools:
+### Stats:
 <img src = "https://github-readme-stats.vercel.app/api?username=amnjha&show_icons=true&theme=synthwave&line_height=33&count_private=true"> 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=amnjha&theme=synthwave">
 
