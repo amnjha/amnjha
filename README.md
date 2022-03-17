@@ -1,34 +1,28 @@
-### Hello World! 👋 I am [Aman Jha]
+### :wave: Hello World! I am [Aman Jha] :octocat:
 
 - 🔭 I’m currently working at [Lowe's India]
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on Web Services and Libraries
+- 🧑‍🤝‍🧑 I’m looking to collaborate on Web Services and Libraries
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 🍕 Pizza is my favourite food
 
 
-### Connect with me:
-
-[<img align="left" alt="amnjha.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="amnjha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="amnjha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
-[<img align="left" alt="amnjha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="amnjha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-<br />
-
 [![Profile Description](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+World+👋,+I+am+Aman+Jha;+Welcome+to+My+Profile!;Over+5+years+of+programming+experience;Always+learning+new+things+;Java+and+Microservices+enthusiast)](https://github.com/amnjha)
+ 
+### ⚡Hiring Me, Here are my skills:
+ - Mircroservices development using ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) with ![Spring](https://img.shields.io/badge/-Spring-5966C?style=flat-square&logo=spring&logoColor=white) & ![Spring Boot](https://img.shields.io/badge/-Spring-5966C?style=flat-square&logo=spring-boot&logoColor=white)
+ - Automating Deployments and Scripting using ![Python](https://img.shields.io/badge/-Python-3376AB?style=flat-square&logo=python&logoColor=white)
+ - Architecture and Deployments using ![Amazon AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+ - Data Storage in Sql and No Sql Databases, extensively working with ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql) / ![ELK](https://img.shields.io/badge/-ELK-005571?style=flat-square&logo=elastic) / ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) / ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
+ 
+### :airplane: Professional Journey
 
-<br />
+- Currently Working as a Senior Software Engineer at [Lowe's India]
+- Worked as SDE at [Publicis Sapient] from Nov'20 to Dec'21
+- Worked as Sr. Software Engineer at [Here Technologies] from Jun'18 to Oct'20
+- Worked as a Software Engineer at [Zycus] from Jul'16 to May'18
 
-
-### Stats:
-<img src = "https://github-readme-stats.vercel.app/api?username=amnjha&show_icons=true&theme=synthwave&line_height=33&count_private=true"> 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=amnjha&theme=synthwave">
-
-
-### Languages and Tools:
+### :toolbox: Languages and Tools:
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3376AB?style=flat-square&logo=python&logoColor=white)
@@ -73,8 +67,20 @@
 
 [Aman Jha]: https://amnjha.github.io
 [Lowe's India]: https://lowes.co.in/
+[Publicis Sapient]: https://www.publicissapient.com/
+[Here Technologies]: https://www.here.com/
+[Zycus]: https://www.zycus.com/
 [website]: https://amnjha.github.io
 [stackoverflow]: https://stackoverflow.com/users/3879941/aman-j
 [linkedin]: https://www.linkedin.com/in/amanjha22/
 [twitter]: https://twitter.com/amn_jha
 [instagram]: https://www.instagram.com/amnjha/
+
+
+### :call_me_hand: Connect with me:
+
+[<img align="left" alt="amnjha.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="amnjha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="amnjha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="amnjha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="amnjha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
