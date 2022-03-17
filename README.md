@@ -1,9 +1,9 @@
-### Hi there 👋 I am [Aman Jha]
+### Hello World! 👋 I am [Aman Jha]
 
 - 🔭 I’m currently working at [Lowe's India]
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on App Development
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to collaborate on Web Services and Libraries
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - 🍕 Pizza is my favourite food
 
 
@@ -17,7 +17,8 @@
 
 <br />
 <br />
-<img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="175px">
+
+[![Profile Description](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+World+👋,+I+am+Aman+Jha;+Welcome+to+My+Profile!;Over+5+years+of+programming+experience;Always+learning+new+things+;Java+and+Microservices+enthusiast)](https://github.com/amnjha)
 
 <br />
 
