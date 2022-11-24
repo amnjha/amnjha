@@ -7,9 +7,10 @@
 - 🥘 Biryani is my favourite food
 
 
-[![Profile Description](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+World+👋,+I+am+Aman+Jha;+Welcome+to+My+Profile!;Over+5+years+of+programming+experience;Always+learning+new+things+;Java+and+Microservices+enthusiast)](https://github.com/amnjha)
+[![Profile Description](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+World+👋,+I+am+Aman+Jha;+Welcome+to+My+Profile!;Over+6+years+of+programming+experience;Always+learning+new+things+;Java+and+Microservices+enthusiast)](https://github.com/amnjha)
  
 ### ⚡Hiring Me, Here are my skills:
+ - Highly Scalable Systems for the Fintech Domain using ![Golang](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) over ![Amazon AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
  - Mircroservices development using ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) with ![Spring](https://img.shields.io/badge/-Spring-5966C?style=flat-square&logo=spring&logoColor=white) & ![Spring Boot](https://img.shields.io/badge/-Spring-5966C?style=flat-square&logo=spring-boot&logoColor=white)
  - Automating Deployments and Scripting using ![Python](https://img.shields.io/badge/-Python-3376AB?style=flat-square&logo=python&logoColor=white)
  - Architecture and Deployments using ![Amazon AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
