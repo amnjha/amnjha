@@ -1,10 +1,10 @@
 ### :wave: Hello World! I am [Aman Jha] :octocat:
 
-- 🔭 I’m currently working at [Lowe's India]
+- 🔭 I’m currently working at [ZestMoney]
 - 🌱 I’m currently learning everything 🤣
 - 🧑‍🤝‍🧑 I’m looking to collaborate on Web Services and Libraries
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- 🍕 Pizza is my favourite food
+- 🥅 2022 Goals: Contribute more to Open Source projects on Golang
+- 🥘 Biryani is my favourite food
 
 
 [![Profile Description](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+World+👋,+I+am+Aman+Jha;+Welcome+to+My+Profile!;Over+5+years+of+programming+experience;Always+learning+new+things+;Java+and+Microservices+enthusiast)](https://github.com/amnjha)
@@ -17,7 +17,8 @@
  
 ### :airplane: Professional Journey
 
-- Currently Working as a Senior Software Engineer at [Lowe's India]
+- Currently working as a SDE III at [ZestMoney]
+- Worked as a Senior Software Engineer at [Lowe's India] from Dec'21 to Aug'22
 - Worked as SDE at [Publicis Sapient] from Nov'20 to Dec'21
 - Worked as Sr. Software Engineer at [Here Technologies] from Jun'18 to Oct'20
 - Worked as a Software Engineer at [Zycus] from Jul'16 to May'18
@@ -66,6 +67,7 @@
 
 
 [Aman Jha]: https://amnjha.github.io
+[ZestMoney]: https://www.zestmoney.in/
 [Lowe's India]: https://lowes.co.in/
 [Publicis Sapient]: https://www.publicissapient.com/
 [Here Technologies]: https://www.here.com/
