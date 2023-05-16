@@ -7,7 +7,7 @@
 - 🍔 McDonald's Burger is my favourite food
 
 
-[![Profile Description](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+World+👋,+I+am+Aman+Jha;+Welcome+to+My+Profile!;Over+6+years+of+programming+experience;Always+learning+new+things+;Java+and+Microservices+enthusiast)](https://github.com/amnjha)
+[![Profile Description](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+World+👋,+I+am+Aman+Jha;+Welcome+to+My+Profile!;Around+7+years+of+programming+experience;Always+learning+new+things+;Java+and+Microservices+enthusiast)](https://github.com/amnjha)
  
 ### ⚡Hiring Me, Here are my skills:
  - Highly Scalable Systems for the Fintech Domain using ![Golang](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) over ![Amazon AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
