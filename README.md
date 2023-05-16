@@ -18,7 +18,7 @@
  
 ### :airplane: Professional Journey
 
-- Currently working as a SDE III at [ZestMoney]
+- Currently working as a SDE III at [ZestMoney] since Aug'22
 - Worked as a Senior Software Engineer at [Lowe's India] from Dec'21 to Aug'22
 - Worked as SDE at [Publicis Sapient] from Nov'20 to Dec'21
 - Worked as Sr. Software Engineer at [Here Technologies] from Jun'18 to Oct'20
