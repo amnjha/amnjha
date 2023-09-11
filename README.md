@@ -3,7 +3,7 @@
 - 🔭 I’m currently working at [ZestMoney]
 - 🌱 I’m currently learning everything 🤣
 - 🧑‍🤝‍🧑 I’m looking to collaborate on Web Services and Libraries
-- 🥅 2022 Goals: Contribute more to Open Source projects on Golang
+- 🥅 2023 Goals: Contribute more to Open Source projects on Golang
 - 🍔 McDonald's Burger is my favourite food
 
 
