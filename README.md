@@ -1,6 +1,6 @@
 ### :wave: Hello World! I am [Aman Jha] :octocat:
 
-- 🔭 I’m currently working at [ZestMoney]
+- 🔭 I’m currently working at [Jio]
 - 🌱 I’m currently learning everything 🤣
 - 🧑‍🤝‍🧑 I’m looking to collaborate on Web Services and Libraries
 - 🥅 2023 Goals: Contribute more to Open Source projects on Golang
@@ -68,7 +68,7 @@
 
 
 [Aman Jha]: https://amnjha.github.io
-[ZestMoney]: https://www.zestmoney.in/
+[Jio]: https://www.jio.com/
 [Lowe's India]: https://lowes.co.in/
 [Publicis Sapient]: https://www.publicissapient.com/
 [Here Technologies]: https://www.here.com/
