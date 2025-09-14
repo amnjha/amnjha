@@ -18,7 +18,8 @@
  
 ### :airplane: Professional Journey
 
-- Currently working as a Staff Engineer at [ZestMoney] since Aug'22
+- Currently Working as a Staff Engineer at [SwiffyLabs] since Feb'24
+- Worked as a Staff Engineer at [ZestMoney] from Aug'22 to Feb'24
 - Worked as a Senior Software Engineer at [Lowe's India] from Dec'21 to Aug'22
 - Worked as SDE at [Publicis Sapient] from Nov'20 to Dec'21
 - Worked as Sr. Software Engineer at [Here Technologies] from Jun'18 to Oct'20
